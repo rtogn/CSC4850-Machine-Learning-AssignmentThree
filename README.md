@@ -9,7 +9,8 @@ Git hub repository for Assigment Three covering SVMs and model metrics.
 -[Packages Used](#packages-used)  
 
 ## Dataset
-This assignment used the - dataset
+This assignment uses Chess dataset from Kaggle: [https://www.kaggle.com/datasets/datasnaek/chess]  
+From this only the rating difference b/w white and black and the turns are considered, and white_wins is used as the label.
 
 
 ## Results
