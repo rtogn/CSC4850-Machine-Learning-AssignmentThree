@@ -23,6 +23,10 @@ This assignment used the - dataset
 #### Metrics for top model choices among all folds
 ![image](https://user-images.githubusercontent.com/60898339/229257962-65d9c937-0248-4391-b2fa-db66f10d87c4.png)
 
+#### 3D Graphs Attemtped
+I don't beleive these to be correct, but I was able to get some output from the grad question without breaking.  
+It seems to involve translating graph calls from some unknown library into matplot lib, which I attempted without knowing all the translations.
+![image](https://user-images.githubusercontent.com/60898339/229261554-f535822d-066e-4717-888b-ddf6e04b02ca.png)
 
 ## Packages Used
 -[Numpy](https://numpy.org/) For array splitting and composition  
