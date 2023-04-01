@@ -16,7 +16,7 @@ This assignment used the - dataset
 #### Fold 1 Metrics
 ![image](https://user-images.githubusercontent.com/60898339/229257904-eeb0766c-21d1-4c94-b64e-41235e695e23.png)
 #### Fold 2 Metrics
-![image](https://user-images.githubusercontent.com/60898339/229257847-d782d042-bfa5-40ed-98d0-215a606a4ff9.png)
+![image](https://user-images.githubusercontent.com/60898339/229258787-cb5b6308-e104-4ad3-abbb-f5668c306b4b.png)
 #### Fold 3 Metrics
 ![image](https://user-images.githubusercontent.com/60898339/229257890-3d1eb022-59f6-4084-942b-9f220bfdbbdc.png)
 
